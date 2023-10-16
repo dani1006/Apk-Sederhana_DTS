@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">KPU</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_info_pemilu">Pemilu 2024 akan diadakan 14-15 Februari 2024</string>
+    <string name="title_form">Form Entry</string>
+    <string name="title_nik">NIK</string>
+    <string name="hint_nik">Inputkan NIK</string>
+    <string name="title_nama">Nama</string>
+    <string name="hint_nama">Inputkan Nama</string>
+    <string name="title_noHP">Nomor HP</string>
+    <string name="hint_noHp">Inputkan Nomor HP</string>
+    <string name="title_JK">Jenis Kelamin</string>
+    <string name="rb_laki">Laki-Laki</string>
+    <string name="rb_perem">Perempuan</string>
+    <string name="hint_tgl">Inputkan Tanggal</string>
+    <string name="title_alamat">Alamat</string>
+    <string name="hint_alamat">Inputkan Alamat</string>
+    <string name="title_btn_lokasi">Cek Lokasi</string>
+    <string name="title_gambar">Gambar</string>
+    <string name="deskripsi_foto">gambar</string>
+    <string name="text_btn_galeri">Galeri</string>
+    <string name="text_btn_camera">Camera</string>
+    <string name="dani_kurniawati">Dani Kurniawati</string>
+    <string name="warning_empty">Maaf data maish kosong</string>
+    <string name="title_tanggal">Tanggal</string>
+    <string name="submit">Submit</string>
+    <string name="text_nik">12345678</string>
+</resources>
